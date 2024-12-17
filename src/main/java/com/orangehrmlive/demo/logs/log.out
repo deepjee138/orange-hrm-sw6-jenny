@@ -1,0 +1,4 @@
+2024-12-16 11:12:522 INFO  LoginPage :41 - Enter User Name: Admin
+2024-12-16 11:12:912 INFO  LoginPage :51 - Enter Password: admin123
+2024-12-16 11:12:38 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (dd98313483ffef6c1772990a4b411ce6)] -> xpath: //button[@type='submit']]
+2024-12-16 11:12:205 INFO  DashboardPage :36 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (dd98313483ffef6c1772990a4b411ce6)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
